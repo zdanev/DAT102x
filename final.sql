@@ -1,0 +1,1 @@
+select "Loan ID" , "Scored Labels" as Status_Pred from t1;
